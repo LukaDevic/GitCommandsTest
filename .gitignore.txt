@@ -1,1 +1,1 @@
-[Dd]ebug/
+GitCommandsTestWithConsoleApp\obj\Debug/

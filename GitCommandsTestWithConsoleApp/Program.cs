@@ -10,6 +10,7 @@ namespace GitCommandsTestWithConsoleApp
     {
         static void Main(string[] args)
         {
+            //here we will use new properties when we develop them
         }
     }
 }

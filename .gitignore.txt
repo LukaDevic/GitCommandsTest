@@ -1,1 +1,1 @@
-GitCommandsTestWithConsoleApp\obj\Debug/
+GitCommandsTestWithConsoleApp\obj/

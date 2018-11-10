@@ -1,2 +1,6 @@
-obj/
-Debug/
+# Build results
+[Dd]ebug/
+[Oo]bj/
+
+# Visual Studo 2015 cache/options directory
+.vs/
